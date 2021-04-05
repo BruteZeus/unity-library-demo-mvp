@@ -1,0 +1,19 @@
+Android
+PlayerPath?
+/Users/moon/Desktop/Project Zeus/Asset Bundles/demo
+SceneListBegin?
+Assets/Demo.unity
+SceneListEnd?
+cf9f5cf2c3145a37ac07f00e50e460f9 UnityEngine.UI.dll:UnityEngine.UI.AspectRatioFitter
+e6baf3ef68d60bd0901dfb91c02bc1c3 UnityEngine.UI.dll:UnityEngine.UI.Image
+4bc4346a71a8df53a6b106f68ef3a190 UnityEngine.UI.dll:UnityEngine.UI.CanvasScaler
+cc4274b586df3c02688bac01b88bd16c UnityEngine.UI.dll:UnityEngine.EventSystems.EventSystem
+ae83e830e7a90c0aff918c4c2e520825 UnityEngine.UI.dll:UnityEngine.UI.GraphicRaycaster
+748dd2a2a28da4e618912da5ac45684b UnityEngine.UI.dll:UnityEngine.EventSystems.StandaloneInputModule
+bf8958e3e2042878b3dfb5d9990b6723 Assembly-CSharp.dll:.MoveObjectController
+ffc46ef211ad5a2f2b076abf30486868 Assembly-CSharp.dll:.FixedTouchField
+3c91d889b13069da16bce43130453091 Assembly-CSharp.dll:.MoveableObject
+57b16cac9ec9567cef8d874ebad8a5ef Assembly-CSharp.dll:.LookingScript
+0e0c7e6c34f2d19ba95cf463e39888b1 Assembly-CSharp.dll:UnityStandardAssets.Characters.FirstPerson.HeadBob
+5ebeeb552550ad4adabbf0d294783dea SimpleInput.Runtime.dll:SimpleInputNamespace.AxisInputUIArrows
+df9ee78aea7c395e0cb66ed54c9a6600 Assembly-CSharp.dll:UnityStandardAssets.Characters.FirstPerson.RigidbodyFirstPersonController
